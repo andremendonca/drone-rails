@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = DroneRails::VERSION
   s.authors     = ["Andre Mendonca", "Bruno Grasselli"]
   s.email       = ["bruno.grasselli@gmail.com"]
-  s.homepage    = "TODO"
+  s.homepage    = "http://rubygems.org/gems/drone-rails"
   s.summary     = "Rails engine with DroneJS"
   s.description = "Rails engine with DroneJS, a javascript MVC framework"
 
